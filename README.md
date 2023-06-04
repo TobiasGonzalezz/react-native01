@@ -1,5 +1,3 @@
-Para poder iniciar el proyecto, sigue los siguientes pasos:
-
 ## Instrucciones para iniciar el proyecto
 
 Para poder iniciar el proyecto, sigue los siguientes pasos:
